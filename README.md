@@ -1,19 +1,24 @@
 # CityMart Sales Project
 
 ## Project Background
-As a Data Analyst at CityMart, I analysed retail sales data from 2023, concentrating on three key product categories: Beauty, Clothing, and Electronics. The goal was to identify sales patterns, customer preferences, and seasonal trends that could optimise inventory, refine marketing strategies, and improve customer engagement.
+#### As a Data Analyst at CityMart, I analysed retail sales data from 2023, concentrating on three key product categories: Beauty, Clothing, and Electronics. The objectives was to identify sales patterns, customer preferences, and seasonal trends that could optimise inventory, refine marketing strategies, and improve customer engagement.
 
 ## Executive Summary
 This analysis revealed key insights into sales, customer behaviour, and product performance:
-  - Peak Sales: Occurred in May and October, driven by demand for Electronics and Beauty products.
-  - Customer Demographics: Females spent more on Beauty and Clothing, while males outspent females in Electronics.
-  - Product Preferences: The 18-23 age group favoured Beauty and Clothing, while the 60-64 age group spent the most on Electronics.
+   - Peak Sales: Occurred in May and October, driven by demand for Electronics and Beauty products.
+   - Customer Demographics: Females spent more on Beauty and Clothing, while males outspent females in Electronics.
+   - Product Preferences: The 18-23 age group favoured Beauty and Clothing, while the 60-64 age group spent the most on Electronics.
+
+![Tableau Dashboard](https://github.com/Mazedaa/CityMart-Retail-Sales-Project/blob/main/TableauDashboard.png)
+
 These findings offer a basis for refining marketing campaigns, optimising inventory, and enhancing customer engagement.
 
 ## Insights Deep-Dive
 ### 1. Seasonal Trends
   - Peak Sales: Highest sales in May (£53,150) and October, driven by Electronics and Clothing.
   - Low Sales: March and September recorded lower sales, presenting an opportunity for targeted promotions.
+
+
 ### 2. Gender-Based Insights
   - Females: Spent £232,840, dominating Beauty and Clothing purchases.
   - Males: Spent £223,160, primarily on Electronics, particularly high-value items.
@@ -29,28 +34,22 @@ These findings offer a basis for refining marketing campaigns, optimising invent
   - Premium Range (£300–£500): High sales in Electronics and Clothing during May and December.
 
 ## Recommendations
-### Leverage Seasonal Peaks:
-  - Target campaigns in May and October, focusing on Electronics and Beauty.
-  - Use flash sales in March and September to stimulate low-demand periods.
-### Gender-Focused Marketing:
-  - Promote Beauty and Clothing for females, offering personalised discounts.
-  - For males, focus on high-value Electronics, emphasising new features or product bundles.
-### Age-Specific Campaigns:
-  - 18-23: Target this group with digital campaigns for Beauty and Clothing.
-  - 60-64: Highlight Electronics with a focus on product reliability, warranties, and ease of use.
-### Cross-Selling Opportunities:
-  - Bundle Beauty and Clothing, or Electronics and Accessories, to increase average transaction value.
-### Inventory Optimisation:
-  - Ensure sufficient stock of Beauty products in July, Electronics in May and December.
-  - Avoid overstocking in low-demand months by forecasting based on historical trends.
+#### 1. Leverage Seasonal Peaks: Focus campaigns on Electronics and Beauty in May and October, and use flash sales in March and September to boost low-demand periods.
+#### 2. Gender-Focused Marketing: Offer personalized discounts on Beauty and Clothing for females, while promoting high-value Electronics for males with an emphasis on new features and bundles.
+#### 3. Age-Specific Campaigns: Target 18-23-year-olds with digital campaigns for Beauty and Clothing, and 60-64-year-olds with Electronics, highlighting reliability, warranties, and ease of use.
+#### 4. Cross-Selling Opportunities: Bundle Beauty with Clothing and Electronics with Accessories to increase transaction value.
+#### 5. Inventory Optimisation: Stock up on Beauty products in July and Electronics in May and December, while preventing overstocking in low-demand months through data-driven forecasting.
+
 ## Key Questions for Stakeholders
-### Seasonal Promotions: Should we focus more on increasing campaigns in May and October or explore strategies for traditionally low-sales months?
-### Demographic Targeting: Are there additional data points (e.g., income or location) that would improve targeting accuracy?
-### Cross-Selling: How can we implement incentives to encourage purchases across multiple categories?
+  - Should we focus more on increasing campaigns in May and October or explore strategies for traditionally low-sales months?
+  - Are there additional data points (e.g., income or location) that would improve targeting accuracy?
+  - How can we implement incentives to encourage purchases across multiple categories?
+
 ## Assumptions and Caveats
-This analysis is based on synthetic data, which may not reflect real-world nuances (e.g., regional economic factors).
-Seasonal trends assume consistent marketing efforts, which may not have been the case in past years.
-Insights are limited to the demographic factors of age and gender; additional factors like income or location were not available.
+1. This analysis is based on synthetic data, which may not reflect real-world nuances (e.g., regional economic factors).
+2. Seasonal trends assume consistent marketing efforts, which may not have been the case in past years.
+3. Insights are limited to the demographic factors of age and gender; additional factors like income or location were not available.
+
 ## Resources
 - See [the original dataset](https://github.com/Mazedaa/CityMart-Retail-Sales-Project/blob/main/original_retail_sales%20-%20dataset.csv) 
 - See [my cleaning, analysis, and pivot tables](https://github.com/Mazedaa/CityMart-Retail-Sales-Project/blob/main/citymart_retail_sales.xlsx) 
